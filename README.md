@@ -1,5 +1,5 @@
 # GallicaURLconversion
-Images clipped from Gallica (gallica.bnf.fr) before October 2015 are no longer valid. This script converts the old urls to new ones that should work.
+Images clipped from Gallica (gallica.bnf.fr) before October 2015 are no longer valid. This script converts the old urls to new ones that should work. My story is here: http://jessehurlbut.net/wp/mssart/?page_id=6974
 
 This perl script was written by Jesse Hurlbut ©2016 jessehurlbut@gmail.com
 
